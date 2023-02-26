@@ -1,0 +1,95 @@
+#page-header {
+    background-color: lightskyblue;
+    border-radius: 10px;
+    font-family:'Segoe UI';
+    color: white;
+    font-size: 2rem;
+    height: 80px;
+    width: 50%;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+#full-form {
+    width: 50%;
+    max-width: 1000px;
+    margin: auto;
+    font-family:'Segoe UI';
+    font-size: 1rem;
+    text-align: center;
+}
+
+#input-form {
+    padding: 20px 0px 20px 0px;
+    font-weight: bold;
+    align-content: center;
+}
+
+.columns {
+    display: flex;
+}
+
+#pending-task {
+    padding-left: 0px;
+}
+
+#pending-task-due-date {
+    padding-left: 0px;
+}
+
+#mark-complete-column {
+    align-content: center;
+    text-align: center;
+}
+
+#mark-complete {
+    cursor: pointer;
+    padding-left: 0px;
+    text-align: center;
+}
+
+#task-column {
+    width: 50%;
+    text-align: left;
+}
+
+#due-date-column {
+    width: 25%;
+}
+
+#mark-complete-column {
+    width: 25%;
+}
+
+#completed-tasks-column {
+    width: 50%;
+    text-align: left;
+}
+
+#completed-due-date-column {
+    width: 25%;
+}
+
+#completed-date-column {
+    width: 25%;
+}
+
+#completed-tasks{
+    padding-left: 0px;
+}
+
+#original-due-date {
+    padding-left: 0px;
+}
+
+#completed-date {
+    padding-left: 0px;
+}
+
+.columns li {
+    list-style-type: none;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding-left: 2px;
+}
