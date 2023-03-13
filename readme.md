@@ -2,7 +2,7 @@
 
 *A simple yet functional To-Do app written in pure JavaScript, HTML, and CSS*
 
-Try it [here](https://kendric84.github.io/To-Do/)
+Try it [here](https://GrahamS-Tech.github.io/To-Do/)
 
 ![App Screenshot](To-Do-ss.png)
 
